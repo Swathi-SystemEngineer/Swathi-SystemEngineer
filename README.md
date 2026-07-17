@@ -33,6 +33,19 @@ Systems Engineer focused on reliable end-user experiences, virtual desktop infra
 - [Active Directory Audit Simulator](https://github.com/Swathi-SystemEngineer/active-directory-audit-simulator)
 - [Incident Summary Generator](https://github.com/Swathi-SystemEngineer/incident-summary-generator)
 
+## Systems engineering labs
+
+- [DNS Health Monitor](https://github.com/Swathi-SystemEngineer/dns-health-monitor)
+- [Network Configuration Validator](https://github.com/Swathi-SystemEngineer/network-config-validator)
+- [VDI Capacity Planner](https://github.com/Swathi-SystemEngineer/vdi-capacity-planner)
+- [Ticket SLA Risk Predictor](https://github.com/Swathi-SystemEngineer/ticket-sla-risk-predictor)
+- [Log Correlation Engine](https://github.com/Swathi-SystemEngineer/log-correlation-engine)
+- [Endpoint Patch Readiness](https://github.com/Swathi-SystemEngineer/endpoint-patch-readiness)
+- [Microsoft 365 License Auditor](https://github.com/Swathi-SystemEngineer/m365-license-auditor)
+- [User Onboarding Automation](https://github.com/Swathi-SystemEngineer/user-onboarding-automation)
+- [Service Availability Reporter](https://github.com/Swathi-SystemEngineer/service-availability-reporter)
+- [Asset Inventory Reconciler](https://github.com/Swathi-SystemEngineer/asset-inventory-reconciler)
+
 ## Current focus
 
 - Deepening CCNA networking fundamentals
